@@ -1,0 +1,7 @@
+.skill-item{
+    font-size: 1.2em;
+}
+
+.skill-item + .skill-item {
+    margin-top: 0.8em;
+}
